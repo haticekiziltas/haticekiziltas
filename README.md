@@ -15,3 +15,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+<img alt="Angular" src="https://komarev.com/ghpvc/?username=haticekiziltas&style=flat&color=red"/>
+  </div>
+<div align="center">
+<img alt="React" src="https://badges.aleen42.com/src/react.svg"/>
+<img alt="Java" src="https://badges.aleen42.com/src/java.svg"/>
+
+  ##
+  ![Hatice GitHub stats](https://github-readme-stats.vercel.app/api?username=haticekiziltas&show_icons=true&theme=dracula)
+  ##
+
+
+
+
+
+
+
+
+
+
+
+
