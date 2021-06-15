@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img alt="React" src="https://badges.aleen42.com/src/react.svg"/>
 <img alt="Java" src="https://badges.aleen42.com/src/java.svg"/>
-<img alt="Spring Boot" src="https://badges.aleen42.com/src/spring-boot.svg />
+<img alt="Spring Boot" src="https://badges.aleen42.com/src/spring-boot.svg" />
 
   ##
   ![Hatice GitHub stats](https://github-readme-stats.vercel.app/api?username=haticekiziltas&show_icons=true&theme=dracula)
