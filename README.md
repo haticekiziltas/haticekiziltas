@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![Hatice GitHub stats](https://github-readme-stats.vercel.app/api?username=haticekiziltas&show_icons=true&theme=dracula)
   ##
     
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haticekiziltas&&langs_count=8&show_icons=true&theme=en&layout=compact&theme=onedark" alt="haticekiziltas" /<p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haticekiziltas&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula" alt="haticekiziltas" /<p>
 
 
 
