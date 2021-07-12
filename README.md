@@ -1,4 +1,4 @@
-### Hi 👋
+<h2 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">&nbsp; I'm Hatice </h2>
 
 <!--
 
@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <img alt="Angular" src="https://komarev.com/ghpvc/?username=haticekiziltas&style=flat&color=red"/>
   </div>
 <div align="center">
+<img alt="Javascript" src="https://badges.aleen42.com/src/javascript.svg"/>
 <img alt="React" src="https://badges.aleen42.com/src/react.svg"/>
-<img alt="Java" src="https://badges.aleen42.com/src/java.svg"/>
+
 
 </div>
   
